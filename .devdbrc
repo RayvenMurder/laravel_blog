@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "c:\\xampp\\htdocs\\laravel_blog\\database\\database.sqlite"
+  }
+]
